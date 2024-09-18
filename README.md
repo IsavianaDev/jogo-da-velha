@@ -20,9 +20,11 @@ Nenhuma dependência externa é necessária.
 
 Como executar
 Faça o download ou clone este repositório.
-Compile o código fonte utilizando o comando: javac JogoDaVelha/Main.java
+Compile o código fonte utilizando o comando:
+javac JogoDaVelha/Main.java
 
-Execute o jogo com o comando: java JogoDaVelha.Main
+Execute o jogo com o comando: 
+java JogoDaVelha.Main
 
 
 
