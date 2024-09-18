@@ -17,43 +17,12 @@ A cada nova partida, o tabuleiro é resetado e o jogo reiniciado.
 Requisitos
 Java 8 ou superior
 Nenhuma dependência externa é necessária.
+
 Como executar
 Faça o download ou clone este repositório.
-Compile o código fonte utilizando o comando:
-bash
-Copiar código
-javac JogoDaVelha/Main.java
-Execute o jogo com o comando:
-bash
-Copiar código
-java JogoDaVelha.Main
-Exemplo de execução
-markdown
-Copiar código
- | |
-------
- | |
-------
- | |
-Jogador X, escolha a linha e coluna (0-2): 0 0
-X| |
-------
- | |
-------
- | |
-Jogador O, escolha a linha e coluna (0-2): 1 1
-X| |
-------
- |O|
-------
- | |
-...
-O jogo continua até que um jogador vença ou o tabuleiro esteja cheio, resultando em empate.
+Compile o código fonte utilizando o comando: javac JogoDaVelha/Main.java
 
-Como contribuir
-Sinta-se à vontade para abrir issues ou fazer pull requests com sugestões de melhorias ou correções.
+Execute o jogo com o comando: java JogoDaVelha.Main
 
-Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-Esse README dá uma visão geral clara do funcionamento do jogo, de como ele pode ser executado, além de informações sobre como contribuir e a licença do projeto.
+
